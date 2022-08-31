@@ -1,6 +1,6 @@
 # Modelagem_BD_E-Commerce
 Modelagem feita no MySQL workbench para Bootcamp DataBase Experience na DIO
-
+Deixo o PNG e o arquivo para edicao, se tiver dicas fico aberto para aprender, obrigado.
 
 
 Para o refinamento do projeto proposto resolvi da seguinte forma:
